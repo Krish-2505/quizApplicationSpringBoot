@@ -14,6 +14,7 @@ So here there are three roles/actors
 - student
 - Teacher
 - admin
+
 So after the registration user will be prompted login page , based on the login details and their role will be detected and will be passed to corresponding authorised endpoint
 ### Student dashboard
 <img width="937" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/c6d9ecb7-314b-4682-8bbd-75543460c950">
