@@ -32,6 +32,12 @@ So after the registration user will be prompted login page , based on the login 
 
 <img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/00cace58-1e4c-465d-bcba-4724336c4a52">
 
+- In the history page , student can see the details of quiz , Here pagination, sorting and searching techniques used
+
+<img width="933" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/50ded5bb-b4be-42b0-96c2-8a0d3c1c2cf6">
+
+
+
 
 
 
