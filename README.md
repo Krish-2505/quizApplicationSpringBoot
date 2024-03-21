@@ -25,4 +25,14 @@ So after the registration user will be prompted login page , based on the login 
 ### Admin dashboard
 <img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/840d6d5b-9941-4807-8e12-1b59260f05aa">
 
+### Quiz page
+<img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/010ed0db-2362-4eb1-8553-f10e4e7e923b">
+
+- score can be visible in the dashboard after submitting or time-up quiz
+
+<img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/00cace58-1e4c-465d-bcba-4724336c4a52">
+
+
+
+
 
