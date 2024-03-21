@@ -1,4 +1,16 @@
 # Quiz Application
+## Technology stack
+- Frontend
+  - HTML
+  - Tailwind css
+  - javascript
+- Backend
+  - Spring boot
+  - spring hibernate
+  - spring security
+  - Spring mvc
+- Database
+    - Postgres database
 ## Demo of the application
 ### Home page
 <img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/dd93d0bc-6f9f-4b21-aad4-5d9ff3fad8c3">
@@ -15,7 +27,7 @@ So here there are three roles/actors
 - Teacher
 - admin
 
-So after the registration user will be prompted login page , based on the login details and their role will be detected and will be passed to corresponding authorised endpoint
+So after the registration user will be prompted login page , based on the login details, their role will be detected and will be passed to corresponding authorised endpoint.
 ### Student dashboard
 <img width="937" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/c6d9ecb7-314b-4682-8bbd-75543460c950">
 
@@ -48,6 +60,9 @@ So after the registration user will be prompted login page , based on the login 
 <img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/840d6d5b-9941-4807-8e12-1b59260f05aa">
 
 <img width="926" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/341e3234-bcbc-49fd-8227-6becf5df3866">
+
+<img width="935" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/440f2182-fa62-4b63-a523-0c480c085477">
+
 
 
 
