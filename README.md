@@ -19,12 +19,6 @@ So after the registration user will be prompted login page , based on the login 
 ### Student dashboard
 <img width="937" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/c6d9ecb7-314b-4682-8bbd-75543460c950">
 
-### Teacher dashboard
-<img width="937" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/596c1cf2-af54-4d05-bdff-e8fbafdc625a">
-
-### Admin dashboard
-<img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/840d6d5b-9941-4807-8e12-1b59260f05aa">
-
 ### Quiz page
 <img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/010ed0db-2362-4eb1-8553-f10e4e7e923b">
 
@@ -36,13 +30,27 @@ So after the registration user will be prompted login page , based on the login 
 
 <img width="933" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/50ded5bb-b4be-42b0-96c2-8a0d3c1c2cf6">
 
+
+### Teacher dashboard
 - Teacher can add questions/delete/edit questions and also can view students performance
+
+<img width="937" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/596c1cf2-af54-4d05-bdff-e8fbafdc625a">
 
 <img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/4b503125-2703-474f-bb87-9143b7a0cd59">
 
 <img width="936" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/ce503e87-28be-4ff0-aaf9-1803f4f011d5">
 
 <img width="935" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/89b6fa4c-9e79-4bac-ae6e-86db0b896fff">
+
+### Admin dashboard
+- Admin manages users , admin can add/delete/update the users
+  
+<img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/840d6d5b-9941-4807-8e12-1b59260f05aa">
+
+<img width="926" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/341e3234-bcbc-49fd-8227-6becf5df3866">
+
+
+
 
 
 
