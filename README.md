@@ -40,6 +40,10 @@ So after the registration user will be prompted login page , based on the login 
 
 <img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/4b503125-2703-474f-bb87-9143b7a0cd59">
 
+<img width="936" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/ce503e87-28be-4ff0-aaf9-1803f4f011d5">
+
+<img width="935" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/89b6fa4c-9e79-4bac-ae6e-86db0b896fff">
+
 
 
 
