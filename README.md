@@ -36,6 +36,11 @@ So after the registration user will be prompted login page , based on the login 
 
 <img width="933" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/50ded5bb-b4be-42b0-96c2-8a0d3c1c2cf6">
 
+- Teacher can add questions/delete/edit questions and also can view students performance
+
+<img width="932" alt="image" src="https://github.com/Krish-2505/quizApplicationSpringBoot/assets/120018777/4b503125-2703-474f-bb87-9143b7a0cd59">
+
+
 
 
 
